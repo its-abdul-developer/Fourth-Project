@@ -1,0 +1,1 @@
+This project is a web application created using only HTML and CSS. It demonstrates basic web design principles, showcasing a clean and responsive layout achieved through semantic HTML and modern CSS techniques.
